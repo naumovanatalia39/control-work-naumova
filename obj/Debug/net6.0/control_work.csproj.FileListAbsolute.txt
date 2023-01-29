@@ -1,0 +1,15 @@
+D:\Наташина папка\GB\C#\control_work\bin\Debug\net6.0\control_work.exe
+D:\Наташина папка\GB\C#\control_work\bin\Debug\net6.0\control_work.deps.json
+D:\Наташина папка\GB\C#\control_work\bin\Debug\net6.0\control_work.runtimeconfig.json
+D:\Наташина папка\GB\C#\control_work\bin\Debug\net6.0\control_work.dll
+D:\Наташина папка\GB\C#\control_work\bin\Debug\net6.0\control_work.pdb
+D:\Наташина папка\GB\C#\control_work\obj\Debug\net6.0\control_work.csproj.AssemblyReference.cache
+D:\Наташина папка\GB\C#\control_work\obj\Debug\net6.0\control_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Наташина папка\GB\C#\control_work\obj\Debug\net6.0\control_work.AssemblyInfoInputs.cache
+D:\Наташина папка\GB\C#\control_work\obj\Debug\net6.0\control_work.AssemblyInfo.cs
+D:\Наташина папка\GB\C#\control_work\obj\Debug\net6.0\control_work.csproj.CoreCompileInputs.cache
+D:\Наташина папка\GB\C#\control_work\obj\Debug\net6.0\control_work.dll
+D:\Наташина папка\GB\C#\control_work\obj\Debug\net6.0\refint\control_work.dll
+D:\Наташина папка\GB\C#\control_work\obj\Debug\net6.0\control_work.pdb
+D:\Наташина папка\GB\C#\control_work\obj\Debug\net6.0\control_work.genruntimeconfig.cache
+D:\Наташина папка\GB\C#\control_work\obj\Debug\net6.0\ref\control_work.dll
